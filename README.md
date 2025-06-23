@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alberto Fernández Gálvez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Senior+Data+Scientist;Machine+Learning+%7C+AI+%7C+NLP+%7C+LLMs;Kaggle+Competitor+%7C+Full-time+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+AI+%7C+NLP+%7C+LLMs;Kaggle+Competitor+%7C+Full-time+Learner" alt="Typing SVG" />
 </p>
 
 ---
