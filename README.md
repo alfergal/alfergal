@@ -66,26 +66,24 @@
 ---
 
 ## 📊 GitHub Stats
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alfergal&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true">
-</picture>
-
+<p align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alfergal&theme=dark&show_icons=true">
+      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true">
+  </picture>
+</p>
 ---
 
-## 🔥 Streaks & Contributions
+## 🔥 Contributions
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alfergal&theme=default" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfergal&theme=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true&theme=default" />
+  <a href="https://github.com/alfergal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfergal&repo=alfergal&theme=dark" />
+  </a>
 </p>
 
 ---
