@@ -81,7 +81,7 @@
 ## 🔥 Streaks & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfergal&theme=default" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=alfergal&theme=default" alt="Streak Stats" />
 </p>
 
 <p align="center">
