@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alberto Fernández Gálvez 👋</h1>
+### 👋 Hi there, I'm Alberto Fernández Gálvez
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+AI+%7C+NLP+%7C+LLMs;Kaggle+Competitor+%7C+Full-time+Learner" alt="Typing SVG" />
@@ -10,27 +10,45 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 - 🎓 Data Science undergraduate at [UOC](https://www.uoc.edu/)
-- 🧪 Currently building end-to-end ML pipelines and production-ready AI systems
+- 💼 Full-stack Developer at Metadrop (2021–Present)
 - 🤖 Passionate about NLP, Transformers, LLMs, and MLOps
-- 📚 Constantly learning: Coursera, Kaggle, DeepLearning.AI, IBM, etc.
-- 💬 Always open to connecting, collaborating, and discussing AI/ML challenges
+- 🚀 Building production-ready AI systems & ML pipelines
+- 📚 Lifelong learner: Coursera, DeepLearning.AI, IBM, Kaggle
+- 🧠 Interested in process mining, BI, and Generative AI
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔨 Tech Stack
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=flat&no-frame=true" />
-  </a>
-</p>
+#### Programming Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+
+#### AI/ML Tools
+![Scikit-learn](https://img.shields.io/badge/-Sklearn-000?&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![MLflow](https://img.shields.io/badge/-MLflow-000)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
 ---
 
-## 🔥 Featured Projects
+## 📂 Featured Projects
 
 | Repository | Description |
 |------------|-------------|
@@ -42,36 +60,13 @@
 
 ---
 
-## 🛠️ Tech Stack
- 
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
----
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alfergal&theme=dark&show_icons=true">
-      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfergal&layout=compact&theme=default" />
 </p>
+
 ---
 
 ## 🔥 Contributions
@@ -81,15 +76,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alfergal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfergal&repo=alfergal&theme=dark" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfergal&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=flat&no-frame=true" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Fern%C3%A1ndez-blue?logo=linkedin)](https://www.linkedin.com/in/alberto-fernandez-galvez/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Fernández-blue?logo=linkedin)](https://www.linkedin.com/in/alberto-fernandez-galvez/)
+[![GitHub](https://img.shields.io/badge/GitHub-alfergal-black?logo=github)](https://github.com/alfergal)
+[![Gmail](https://img.shields.io/badge/Gmail-albertofer1997@gmail.com-red?logo=gmail)](mailto:albertofer1997@gmail.com)
 
 ---
+
+<p align="center">Made with ❤️ by Alberto Fernández Gálvez</p>
