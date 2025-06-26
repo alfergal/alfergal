@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=flat&no-bg=true&margin-w=10" alt="alfergal" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=flat&no-frame=true" />
   </a>
 </p>
 
@@ -85,11 +85,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfergal&theme=default" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfergal&theme=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alfergal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true&theme=default" />
 </p>
 
 ---
