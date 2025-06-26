@@ -1,3 +1,8 @@
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20there,%20I'm%20Alberto%20Fernández%20Gálvez!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 ### 👋 Hi there, I'm Alberto Fernández Gálvez
 
 <p align="center">
@@ -63,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfergal&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfergal&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfergal&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -72,15 +77,15 @@
 ## 🔥 Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alfergal&theme=default" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=alfergal&theme=dark" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfergal&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfergal&theme=github-compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=flat&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=darkhub&no-frame=true" />
 </p>
 
 ---
@@ -92,5 +97,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-albertofer1997@gmail.com-red?logo=gmail)](mailto:albertofer1997@gmail.com)
 
 ---
+
+<!-- FOOTER IMAGE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+</p>
 
 <p align="center">Made with ❤️ by Alberto Fernández Gálvez</p>
