@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+AI+%7C+NLP+%7C+LLMs;Kaggle+Competitor+%7C+Full-time+Learner" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alfergal&label=Profile%20views&color=0e75b6&style=flat" alt="alfergal" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -12,6 +16,17 @@
 - 🧪 Currently building end-to-end ML pipelines and production-ready AI systems
 - 🤖 Passionate about NLP, Transformers, LLMs, and MLOps
 - 📚 Constantly learning: Coursera, Kaggle, DeepLearning.AI, IBM, etc.
+- 💬 Always open to connecting, collaborating, and discussing AI/ML challenges
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alfergal&theme=flat&no-bg=true&margin-w=10" alt="alfergal" />
+  </a>
+</p>
 
 ---
 
@@ -29,9 +44,28 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,jupyter,pandas,numpy,matplotlib,seaborn,postgres,git,github,linux,docker,vscode,fastapi" />
-</p>
+<table><tr><td valign="top" width="33%">
+  
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,bash,java,html,css" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### AI/ML Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,jupyter,tensorflow,pytorch,seaborn,matplotlib" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Others
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,fastapi" />
+</div>
+
+</td></tr></table>
 
 ---
 
@@ -44,10 +78,18 @@
 
 ---
 
-## 📈 Activity Graph
+## 🔥 Streaks & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfergal&theme=default" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfergal&theme=default" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfergal&theme=default" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=alfergal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
 
 ---
