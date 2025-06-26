@@ -23,7 +23,6 @@ I'm a passionate and self-driven **Data Scientist in training** with a backgroun
 - 💼 Currently working as a **Full-stack Developer** at **Metadrop**, gaining strong experience in production environments and team collaboration.
 - 🤖 Fascinated by **NLP, Transformers, and LLMs**, with a growing expertise in developing and deploying intelligent agents.
 - 🌐 Exploring **MLOps** practices for reproducibility and scalable model deployment using **Docker**, **MLflow**, and cloud platforms.
-- 🎯 Aiming to transition into a **Senior Data Scientist** role by 2027 through 70h/week of deliberate practice and strategic learning.
 - 📚 Constant learner: deep into **DeepLearning.AI**, **IBM certifications**, **Kaggle**, and hands-on projects.
 
 I’m driven by curiosity and the ambition to contribute meaningfully to AI-powered innovation.
