@@ -100,6 +100,11 @@ Below is a selection of my most relevant public repositories. Each reflects my e
 </p>
 
 ---
+## 📕 Reading
+
+- HOML
+- Deep learning with python
+- Deep learning 
 
 ## 📫 Connect With Me
 
