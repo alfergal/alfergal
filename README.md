@@ -114,7 +114,7 @@ Below is a selection of my most relevant public repositories. Each reflects my e
 
 ## Completed Courses  
 - Python for Everybody – University of Michigan  
-- IBM Data Science Professional Certificate *(in progress)*
+- IBM Data Science Professional Certificate
 
 ## Courses to Take  
 - Deep Learning Specialization – DeepLearning.AI  
