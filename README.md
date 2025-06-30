@@ -100,11 +100,33 @@ Below is a selection of my most relevant public repositories. Each reflects my e
 </p>
 
 ---
-## 📕 Reading
 
-- HOML
-- Deep learning with python
-- Deep learning 
+## Reading  
+- *Hands-On Machine Learning* – Aurélien Géron  
+- *Deep Learning with Python* – François Chollet  
+- *Deep Learning* – Ian Goodfellow
+
+## Books To Read  
+- *Mathematics for Machine Learning* – Deisenroth, Faisal, Ong  
+- *Machine Learning Engineering* – Andriy Burkov  
+- *The Hundred-Page Machine Learning Book* – Andriy Burkov  
+- *You Look Like a Thing and I Love You* – Janelle Shane
+
+## Completed Courses  
+- Python for Everybody – University of Michigan  
+- IBM Data Science Professional Certificate *(in progress)*
+
+## Courses to Take  
+- Deep Learning Specialization – DeepLearning.AI  
+- Machine Learning Specialization – DeepLearning.AI  
+- Generative AI with LLMs – DeepLearning.AI  
+- IBM AI Engineering Professional Certificate  
+- Natural Language Processing Specialization – DeepLearning.AI  
+- Mathematics for Machine Learning and Data Science – DeepLearning.AI  
+- Microsoft Azure Data Scientist Associate (DP-100)  
+- Data Engineering, Big Data and ML on GCP – Google Cloud  
+
+---
 
 ## 📫 Connect With Me
 
