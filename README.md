@@ -118,7 +118,7 @@ Below is a selection of my most relevant public repositories. Each reflects my e
 
 ## Courses to Take  
 - Deep Learning Specialization – DeepLearning.AI  
-- Machine Learning Specialization – DeepLearning.AI  
+- Machine Learning Specialization – DeepLearning.AI  (In progress)
 - Generative AI with LLMs – DeepLearning.AI  
 - IBM AI Engineering Professional Certificate  
 - Natural Language Processing Specialization – DeepLearning.AI  
