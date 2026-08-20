@@ -57,7 +57,7 @@
 
 <pre>
 alfergal@github
-────────────────────────────────────────
+──────────────────────────────────────────────────
 
 Role       Data Scientist
            Senior Software Developer
