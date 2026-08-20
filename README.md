@@ -1,9 +1,3 @@
-````markdown
-<!--
-  GitHub profile README — Alberto Fernández Gálvez
-  Put this README.md in the repository named exactly like your GitHub username: alfergal/alfergal
--->
-
 <h1 align="center">Alberto Fernández Gálvez</h1>
 
 <p align="center">
@@ -21,43 +15,59 @@
 
 ---
 
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
-
 <pre>
-            ...:==:
-       .+:*#%#%%%@%%%#+:
-    :*##%###%@@%@@@@@@@%*:
-    *%##%%@@@@@@@@@@@@@@@%=
-   -#%##@@%%%%%@@@@@@@@@@@@#:
-  .*##%%*+++*%@@%%%@@@@@@@@@@-
-  +%%%#-....:-=++=+*#@@@@@@@@#.
-  #@#=..........::---+#@@@@@@@-
- .%*=............:-::--=+*@@@@-
- -*-:..:=*##**+==-=::--===+%@@-
- ---#%#----+*#%%*+:==+*+++++%@.
- -=*:*:.:-=*##+=*--+#@@@@%%**#
- =*:.=..-=+###+:=*#%%%#**#%%*-
-.+-..::...:---:-+:-#%#%@#++#+*-
-:.....:........=:.-##+++*%++=*%-
-:-......:::----...:+*=---=++++.
--:........:--:=+::-=++---=+=+
-...........:.:+==*##*=====+#:
-.............::-+=#*+----=*=
- :........::.::---+**=---==
-  :......-++==++***+++=-=+.
-  ::..:.:....:::-=*#*===+-
-  .:-::::::::=+*++++=-=+-
- ...:=::...::-=+++====+-
--=...:=-:.....::=====*+
-#=....:-=-------+++***%#+=-:
-*=.......-+**+=++*#*++@@@@%#*=-.
-*=.........-=+**#*===*@@%%%%%##*+-:
+                                       ..    ..........   . .....                                   
+                                    . .  ...            .. .     .....                              
+                                  .. . ..    ...:-::--=+++=:.....      ..                           
+                               ..   . -*-:-+***#####%%%%%@%#####*++=-.    .                         
+                             ...-+=+**#%###**#**#######%@@@@@@@%%@@%%#*-.  ..                       
+                             ..-########***##%%@@@@@%%%@@@@@@%%%#%@%%%%%#=.  ..                     
+                           .. :#%%*##**#%%%@@@@@@@%%@@@@@@@@@%%%%%%@@@%%%%#+:  ..                   
+                           ..-+#%%#***#%@@%%#%###%%#%%@@@@%%#%%%%%%%@@@@@@@@%*-                     
+                          . :*###***#%%###*****##%@%%%%%%%%@%%@%%%%%@@@@@@@@@@%+:..                 
+                          .:*###**%%%*=--------==*##%###****##%@@@@@@@@@@@@@@%%@*:..                
+                        ...+%#%##%#+-............::--=----====+*#%@@@@@@@@@@@@%%@*:..               
+                        ...#%%%#*+-....................::::-----=+*#%@@@@@@@@@@@%@+..               
+                        . -%%#+=-......     .........:..-::-:::-----=+**#%@@@@@@@%+...              
+                        . +%+=-:.  .  ..:-==--::....:..--.-+::::-----=====+#@@@@%@+..               
+                       . .*+--::-----=++**#########*+++=-=+-.-=.---:-=-=====*#%@@@+..               
+                       . :+-:-+#%#@#=--------=+*##%%%%*+*+-::=+--+++++===+===+*%@#: .               
+                       . ==:=#+-+*#: .::::::-==+***+++#*=:::-++##%%@@@%##***+++*@+ .                
+                    ... .=-+*-.. +=..::=+++#%%%####*=:-**++**##%%%%%%%%@@%%@%#++#....               
+                        :+#*-:::.=+...:::--=++*+**+=-::+#*+*#%%####*++==+**##%*#+                   
+                    .::.:+*-:....:+. .....::::----:::-+*-.:-=%%###*%%%#*++++*%=+*+=:..              
+                 . .=*=::.::..... :=..   ...........-+=..::-+#%**++****#%#++*+.-+%@%*...            
+                 . .==:.:::....... .--:::::::.....:==-....:-=#%+=====-==+*++*+**+#*=:.              
+                 . .::.:==.........  ..::-------=--:.  ....:-+#*---------==++==+*-                  
+                    .:.-+-.................::--=-..-==-:.::-===**==--:::-==+=:=+: ...               
+                   . .:.:.:................::--:::=##+=-=+*#%*=+++========+****: .                  
+                     .:. ::.......................:-::-=**#****+=-----=====+#*: .                   
+                    . .:..:.................:::::::::-+=-=##**+=--------===*=: .                    
+                       ..:-:..............::::....:::---:-+****+==----=-==*-. .                     
+                          ::............:-==+==========+++===+++++==--===+=  .                      
+                       ....-:......:...:::-------::==++++**#**+=====-===++...                       
+                        . .:--:::..::..:.........:.:::::--=*#%#+-======+=. .                        
+                        .....-=-::::::::::::::::-=++++++===+++=--====++-  .                         
+                  ......  ....:-=-::::.:::::::--==+***#*+++========++=: ..                          
+          .......       ..:.....:===-::........:..::--=+=========+**:. .......                      
+  ......          ..::-=++:......:-=+=-::.......::::::-========+***+.         ......                
+         ....:::-==**+*#*=-.......::-====----:--------=++==+++***+*%#*+=---::.      ......          
+...::::----=++++**#*+**#=*:........::..:=++*+++====-===+++**#**+++#@%@%%%%##**=-::..      ...       
+.:-----==--+++++*%#*****=+:.........:....:-=++**********##**+====+%@%%%%@%#%#####**+=-::..     .    
+.:-====+*++*+*+-=#%++*#*==..........:........::-===++***+==--===+#@%%%%#%#%%*#%#*##***+++=-:..      
+.:------=*#++#*=-+#*+*#*++....................::--=++++==----===+%%%%%###%%*#%#*##+++++======-:...  
+..:--=---=+##*++=-*#+*##++-...::....::....:::::--=+++==-----===+#%%%####%#*%%%##*+**+======----::.. 
+ .::-==---=*#*+++=-**+##+++-:..::...:::::.:::-==+++==-----===++*#%%###%%##%%##*#***+==++==--::::... 
+ ..:-==----=##+====-+**##+++=-:::::..:::::::--======----====++*#%###%#**#%#%#*###*+++*+==---:::...  
+ ..::--=----+#*======++*##+++++=-:....::-----======---==+++**#%%##%#**#%%###+*##*++**+==---:::...   
+  ...:-------+#+==-===+++*#*++++++=-:..:-========-::-=++**##%#####**#%%###*+*##*++++==----:::...    
+  ....::------+*==---==+==+*++++++***+==========--=++*##########**#%%####+=+**+++++=-----::::...    
+   ....::--:::-+==----==+=-=*+==+==+++********########***####*++####****+==**+====-------::...      
+     .....:::::-=-------===--++===========+++++++++********+=+*#**+++=+=--=+=-----:::::::...        
+         .......::::--::::-----===----========+++*****+++===+*+=====-=-::--:::::::::......          
+              .............:::::----::-------======-===-::-==--:::::::..::...........    
 </pre>
 
-</td>
-<td width="64%" valign="middle">
 
 <pre>
 alfergal@github
@@ -91,8 +101,6 @@ DevOps     Docker · Git · Jenkins
 
 Education  Applied Data Science · UOC
            Web Application Development
-
-Status     build → learn → deploy → impact
 </pre>
 
 </td>
@@ -112,21 +120,9 @@ I enjoy working at the intersection of **software engineering and data**: turnin
 - Built **chatbots, AI agents and automation solutions** with Python and LLMs.
 - Developed **data-preparation pipelines and predictive models** with Python, Pandas, SQL and scikit-learn.
 - Led frontend architecture for applications using **Angular 17+, TypeScript, JavaScript and PHP**.
-- Improved **accessibility and web performance by 30%+** through Core Web Vitals optimization and technical audits.
 - Worked with **Docker, Jenkins, Git, Composer and MySQL** in CI/CD environments.
 - Implemented automated testing with **BackstopJS, Behat and PHPUnit**.
 - Developed backend services with **Java and Spring Boot** in microservice architectures.
-
-## Selected projects
-
-### [playground-s5e6](https://github.com/alfergal/playground-s5e6)
-Kaggle Playground Series S5E6 — XGBoost, feature engineering and model stacking.
-
-### [titanic-survival-prediction](https://github.com/alfergal/titanic-survival-prediction)
-End-to-end survival prediction project with EDA, feature engineering and Random Forest models.
-
-### [NLP-disaster-tweets-kaggel](https://github.com/alfergal/NLP-disaster-tweets-kaggel)
-Natural-language classification project focused on identifying disaster-related tweets.
 
 ## Core stack
 
@@ -136,31 +132,20 @@ Frontend        Angular · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind
 Backend         PHP · Drupal · Java · Spring Boot · REST APIs · SQL · MySQL
 DevOps          Docker · Git · Jenkins · Composer · Linux
 Testing         Behat · PHPUnit · BackstopJS
-````
+```
 
 ## Education
 
-**BSc in Applied Data Science**
+**BSc in Applied Data Science**  
 Universitat Oberta de Catalunya — 2023–2026
 
-**Higher Diploma in Web Application Development**
+**Higher Diploma in Web Application Development**  
 IES Tetuán — 2018–2020
 
-## Selected certifications
+## Certifications
 
-* **Machine Learning Specialization** — Stanford University / DeepLearning.AI, 2025
-* **Deep Learning Specialization** — Stanford University / DeepLearning.AI, 2025
-* **IBM Data Science Professional Certificate** — IBM, 2025
+- **Machine Learning Specialization** — Stanford University / DeepLearning.AI, 2025
+- **Deep Learning Specialization** — Stanford University / DeepLearning.AI, 2025
+- **IBM Data Science Professional Certificate** — IBM, 2025
 
 ---
-
-<p align="center">
-  <strong>Build useful things. Learn continuously. Turn data into impact.</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alberto-fernandez-galvez/">LinkedIn</a>
-  ·
-  <a href="mailto:albertofer1997@gmail.com">albertofer1997@gmail.com</a>
-</p>
-```
