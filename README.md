@@ -1,3 +1,4 @@
+````markdown
 <!--
   GitHub profile README — Alberto Fernández Gálvez
   Put this README.md in the repository named exactly like your GitHub username: alfergal/alfergal
@@ -22,12 +23,41 @@
 
 <table>
 <tr>
-<td width="36%" align="center">
+<td width="36%" align="center" valign="middle">
 
-<img src="./assets/alberto-cartoon.jpg" width="300" alt="Cartoon portrait of Alberto Fernández Gálvez working on a laptop">
+<pre>
+            ...:==:
+       .+:*#%#%%%@%%%#+:
+    :*##%###%@@%@@@@@@@%*:
+    *%##%%@@@@@@@@@@@@@@@%=
+   -#%##@@%%%%%@@@@@@@@@@@@#:
+  .*##%%*+++*%@@%%%@@@@@@@@@@-
+  +%%%#-....:-=++=+*#@@@@@@@@#.
+  #@#=..........::---+#@@@@@@@-
+ .%*=............:-::--=+*@@@@-
+ -*-:..:=*##**+==-=::--===+%@@-
+ ---#%#----+*#%%*+:==+*+++++%@.
+ -=*:*:.:-=*##+=*--+#@@@@%%**#
+ =*:.=..-=+###+:=*#%%%#**#%%*-
+.+-..::...:---:-+:-#%#%@#++#+*-
+:.....:........=:.-##+++*%++=*%-
+:-......:::----...:+*=---=++++.
+-:........:--:=+::-=++---=+=+
+...........:.:+==*##*=====+#:
+.............::-+=#*+----=*=
+ :........::.::---+**=---==
+  :......-++==++***+++=-=+.
+  ::..:.:....:::-=*#*===+-
+  .:-::::::::=+*++++=-=+-
+ ...:=::...::-=+++====+-
+-=...:=-:.....::=====*+
+#=....:-=-------+++***%#+=-:
+*=.......-+**+=++*#*++@@@@%#*=-.
+*=.........-=+**#*===*@@%%%%%##*+-:
+</pre>
 
 </td>
-<td width="64%">
+<td width="64%" valign="middle">
 
 <pre>
 alfergal@github
@@ -106,21 +136,21 @@ Frontend        Angular · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind
 Backend         PHP · Drupal · Java · Spring Boot · REST APIs · SQL · MySQL
 DevOps          Docker · Git · Jenkins · Composer · Linux
 Testing         Behat · PHPUnit · BackstopJS
-```
+````
 
 ## Education
 
-**BSc in Applied Data Science**  
+**BSc in Applied Data Science**
 Universitat Oberta de Catalunya — 2023–2026
 
-**Higher Diploma in Web Application Development**  
+**Higher Diploma in Web Application Development**
 IES Tetuán — 2018–2020
 
 ## Selected certifications
 
-- **Machine Learning Specialization** — Stanford University / DeepLearning.AI, 2025
-- **Deep Learning Specialization** — Stanford University / DeepLearning.AI, 2025
-- **IBM Data Science Professional Certificate** — IBM, 2025
+* **Machine Learning Specialization** — Stanford University / DeepLearning.AI, 2025
+* **Deep Learning Specialization** — Stanford University / DeepLearning.AI, 2025
+* **IBM Data Science Professional Certificate** — IBM, 2025
 
 ---
 
@@ -133,3 +163,4 @@ IES Tetuán — 2018–2020
   ·
   <a href="mailto:albertofer1997@gmail.com">albertofer1997@gmail.com</a>
 </p>
+```
